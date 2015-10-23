@@ -3,11 +3,11 @@ the #official repo™ documenting and discussing the schema of [pxon](http://pxo
 
 ## repo contents
 
-### example.json
+### [example.json](/blob/master/example.json)
 
 This is an up-to-date example of pxon, to be updated as the schema of pxon changes.
 
-### pxon-schema.md
+### [pxon-schema.md](/blob/master/pxon-schema.md)
 
 This is a document outlining the most up-to-date schema of pxon, supplementing the [official abstract](http://pxon.github.io).
 
