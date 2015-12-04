@@ -5,7 +5,9 @@
     "imageDescription": "only 3 pixels",
     "userComment": "made as an example for pxon",
     "copyright": "jenn schiffer 2015",
-    "dateTime": "2015-10-23T18:09:51.761Z"
+    "dateTime": "2015-10-23T18:09:51.761Z",
+    "imageWidth": 100,
+    "imageLength": 100
   },
   "pxif": {
     "pixels": [
@@ -14,7 +16,7 @@
         "y": 15,
         "color": "rgba(0, 0, 0, 1)",
         "size": 15
-      },      
+      },
       {
         "x": 45,
         "y": 45,
